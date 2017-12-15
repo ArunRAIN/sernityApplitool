@@ -5,7 +5,7 @@ In order to view stories
 As a user
 I want to view slides auto rotating
 
-eta:@skip
+Meta:@skip
 
 
 Scenario: Carousel Banner - View each story slide

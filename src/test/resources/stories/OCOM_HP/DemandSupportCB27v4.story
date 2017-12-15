@@ -5,7 +5,7 @@ In order to navigate to an event page
 As a user
 I want to click on the CTA button
 
-eta:@skip
+Meta:@skip
 
 Scenario: CTA Background color
 Given User on the home page

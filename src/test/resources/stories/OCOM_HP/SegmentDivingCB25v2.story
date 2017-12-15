@@ -5,7 +5,7 @@ In order to view the selected item
 As a user
 I want to able to view text underlined on hoverover
 
-eta:@skip
+Meta:@skip
 
 Scenario: Hoverover the hyperlinks
 Given User on the home page

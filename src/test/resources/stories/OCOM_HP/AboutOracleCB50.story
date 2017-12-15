@@ -5,7 +5,7 @@ In order to know about Oracle
 As a user
 I want to see 4 featured areas
 
-eta:@skip
+Meta:@skip
 
 Scenario: Featured area
 Given User on the home page

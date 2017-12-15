@@ -5,7 +5,7 @@ In order to view popular OCOM page links
 As a user
 I want to see the “Top Action” links
 
-eta:@skip
+Meta:@skip
 
 Scenario: Top Actions - Scroll down the page to view Top Actions
 Given User on the home page
