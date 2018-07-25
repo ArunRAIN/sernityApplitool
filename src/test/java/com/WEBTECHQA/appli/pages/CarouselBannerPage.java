@@ -29,7 +29,7 @@ import net.thucydides.core.webdriver.WebDriverFacade;
 
 public class CarouselBannerPage extends PageObject
 {
-	public WebDriver driver;
+	//public WebDriver driver;
 	public Eyes eyes;
 	public static Boolean commonBaseline=true;
 	   public static  String commonBaselineFlag=null;
