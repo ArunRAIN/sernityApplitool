@@ -55,6 +55,22 @@
             <version>1.7.7</version>
         </dependency>
         <dependency>
+            <groupId>com.applitools</groupId>
+            <artifactId>eyes-selenium-java3</artifactId>
+            <version>3.25</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.seleniumhq.selenium</groupId>
+                    <artifactId>selenium-java</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>io.appium</groupId>
+                    <artifactId>java-client</artifactId>
+                </exclusion>
+            </exclusions>
+
+        </dependency>
+        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.12</version>
